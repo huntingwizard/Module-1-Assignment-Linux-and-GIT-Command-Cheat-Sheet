@@ -6,3 +6,4 @@ Git
 Linux
 1. Remove directory and everything in it: rm -rm "directory/file name"
 2. View Current Directory: ls
+2. Move into new Directory: cd [path to directory from current directory]
