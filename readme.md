@@ -14,3 +14,4 @@ Linux
 4. Move out of current directory: cd ..
 5. Moving/Renaming files: mv "filename" "new destination directory/new name"
 6. Copying Files: cp "Copied File" "designated file to copy into"
+7. Change file permissions: chmod [permissions] "file"
