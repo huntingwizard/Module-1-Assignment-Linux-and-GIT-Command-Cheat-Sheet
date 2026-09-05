@@ -8,3 +8,4 @@ Linux
 1. Remove directory and everything in it: rm -rm "directory/file name"
 2. View Current Directory: ls
 3. Move into new Directory: cd [path to directory from current directory]
+4. move out of current directory: cd ..
