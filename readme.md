@@ -6,6 +6,7 @@ Git
 5. Show all commits in current branch history: git log
 6. Turn current directory into Git Repo: git init
 7. List all branches: git branch
+7. Add all modified files into commits: git add .
 
 Linux
 1. Remove directory and everything in it: rm -rm "directory/file name"
