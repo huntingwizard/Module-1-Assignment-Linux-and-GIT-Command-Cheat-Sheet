@@ -4,6 +4,7 @@ Git
 3. Retrieve entire repository: git clone "url"
 4. Merge branch into current branch: git merge "branch name"
 5. Show all commits in current branch history: git log
+6. Turn current directory into Git Repo: git init
 
 Linux
 1. Remove directory and everything in it: rm -rm "directory/file name"
